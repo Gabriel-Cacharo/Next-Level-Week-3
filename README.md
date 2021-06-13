@@ -1,6 +1,6 @@
 <h1 align="center">💛 Next Level Week 3</h1>
 
-<h3 align="center">😄 | Happy site made during Next-Level-Week-3.</h3>
+<h3 align="center">😄 | Happy site made during a Next-Level-Week-3.</h3>
 
 &nbsp;
 
